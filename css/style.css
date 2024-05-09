@@ -1,0 +1,66 @@
+
+/* header part */
+.header{
+	height: 100px;
+    background-color: red;
+    padding: 10px;
+    margin: 8px 5px;
+}
+
+/* content part */
+.contenter{
+    overflow: hidden;
+    padding: 10px 5px;
+    margin: 12px 9px 5px;
+}
+
+/* left content */
+.blog{
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: blue;
+}
+
+
+/* right content */
+.contect{
+	float: right;
+	width: 30%;
+	height: 150px;
+	background-color: green;
+
+}
+
+/* three plus part */
+
+.wrapper{
+	overflow: hidden;
+	padding: 15px 10px 5px;
+	margin: 15px 11px 8px 5px;
+}
+
+.box{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+
+.item1{
+	background-color: greenyellow;
+}
+
+.item2{
+	background-color: orange;
+}
+
+.item3{
+	background-color: red;
+}
+
+/* footer part */
+.footer{
+	height: 100px;
+	background-color: black;
+	padding: 16px 12px 8px 4px;
+}
